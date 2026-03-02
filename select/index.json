@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ロックンロール イズ ノットデッド",
+  "base_artist": "サンボマスター",
+  "createdAt": "2026-03-02T15:30:25.756920Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ロックンロール イズ ノットデッド - Rock'n'Roll Is Not Dead",
+      "artist": "SUPER BEAVER",
+      "has_synced": true,
+      "path": "select/01_ロックンロール_イズ_ノットデッド_-_Rock'n'Roll_Is_Not_Dead_SUPER_BEAVER.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ロックンロール イズ ノットデッド",
+      "artist": "SUPER BEAVER",
+      "has_synced": true,
+      "path": "select/02_ロックンロール_イズ_ノットデッド_SUPER_BEAVER.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ロックンロール イズ ノットデッド",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_01_ロックンロール_イズ_ノットデッド_サンボマスター.txt"
+    }
+  ]
+}
